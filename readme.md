@@ -2,4 +2,4 @@ memCov.m can be used in exactly the same way as the inbuilt MatLab function. Fir
 
 If the process runs out of memory, memCov.m will compute the covariance matrix iteratively, computing small chunks of X sequentially and summing the result.
 
-The method is summarised in the attached notes, '91Combining_covariance_matrices.pdf'.
+The method is summarised in the attached notes, 'Combining_covariance_matrices.pdf'.
